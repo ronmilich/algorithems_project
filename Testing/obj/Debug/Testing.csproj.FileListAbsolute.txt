@@ -1,0 +1,6 @@
+C:\Users\ronmi\Desktop\Sela\algorithems project\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\ronmi\Desktop\Sela\algorithems project\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\ronmi\Desktop\Sela\algorithems project\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\ronmi\Desktop\Sela\algorithems project\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\ronmi\Desktop\Sela\algorithems project\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\ronmi\Desktop\Sela\algorithems project\Testing\Testing\obj\Debug\Testing.pdb
